@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.14.0-beta.4",
+    "libraryName": "script-wp",
+    "libraryId": "63bbe6fc-d7d8-4eb0-bbe8-f5f3ad230b08",
+    "packageManager": "npm",
+    "solutionShortDescription": "script-wp description",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

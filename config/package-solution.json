@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "script-wp-client-side-solution",
+    "id": "63bbe6fc-d7d8-4eb0-bbe8-f5f3ad230b08",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.14.0-beta.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "script-wp description"
+      },
+      "longDescription": {
+        "default": "script-wp description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "script-wp Feature",
+        "description": "The feature that activates elements of the script-wp solution.",
+        "id": "64b5deb4-60ca-433c-a0bb-17e74cb5c03a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/script-wp.sppkg"
+  }
+}
